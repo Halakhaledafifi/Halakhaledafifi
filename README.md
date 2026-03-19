@@ -57,7 +57,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🎓 **AI for Education** *(Graduation Project)* | Personalized learning platform with adaptive assessment, grade prediction & AR accessibility. AUC-ROC: 82.3%, +8% over baseline. Fine-tuned SLMs with LoRA/QLoRA on 2,800+ Q&A pairs. | GCP, LoRA, EdNet, RAG |
-| 💳 **Fraud Detection — Santander Bank** | Classification models for financial fraud detection with focus on feature engineering & model evaluation. | Python, Sklearn |
+| 💳 **Santander Bank** | Classification models for financial transaction detection with focus on feature engineering & model evaluation. | Python, Sklearn |
 | 🤟 **Arabic Sign Language Classifier** | ML image classification model to recognize Arabic sign language letters from visual input. | Python, CV |
 | 😊 **Facial Expression Detection** | High-accuracy facial expression classifier trained on Kaggle data using deep learning techniques. | PyTorch, CV |
 
