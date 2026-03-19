@@ -1,6 +1,6 @@
 # Hi, I'm Hala 👋
 
-Junior AI Engineer passionate about building intelligent systems and real-world AI applications.
+AI Engineer passionate about building intelligent systems and real-world AI applications.
 
 ## What I Do
 
